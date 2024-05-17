@@ -10,3 +10,4 @@ def saludar():
     print("Hola Andrea")
 #EJECUTAR
 saludar()    
+print("hi")
